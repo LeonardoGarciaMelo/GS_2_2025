@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, TouchableOpacity } from 'react-native';
-import { calculations } from '../../utils/calculation';
+import { calculations } from '../../utils/calculations';
 import { HistoryCardProps } from '../../types';
 import { styles } from './styles';
 
