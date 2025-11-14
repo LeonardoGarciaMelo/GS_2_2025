@@ -44,26 +44,26 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 ### Passos para a instalação
 1 - Clonar o repositório
 - Para Windows:
-'''
+```
 git clone https://github.com/LeonardoGarciaMelo/GS_2_2025.git
-'''
+```
 
 - Para Linux:
-'''
+```
 git clone git@github.com:LeonardoGarciaMelo/GS_2_2025.git
-'''
+```
 
 2 - Acessar o Projeto
-'''
+```
 cd GS_2_2025
-'''
+```
 
 3 - Instalar as dependências
-'''
+```
 npm install
-'''
+```
 
 4 - Rodar:
-'''
+```
 npm start
-'''
+```
