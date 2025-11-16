@@ -8,7 +8,7 @@ Projeto desenvolvido para a Global Solution (GS) - 2º Semestre 2025
 ## Integrantes do Grupo
 - Nome: Guiherme Moraes Pagani  Rm: 99445   Turma: 3ECR
 - Nome: Leonardo Garcia Melo    Rm: 99471   Turma: 3ECR
-- Nome: Gustavo Dell Rocca      Rm: 551595  Turma: 3ECS
+- Nome: Gustavo Della Rocca      Rm: 551595  Turma: 3ECS
 
 ## Visão Geral
 Aplicativo móvel em React Native que aborda o tema "DataWork" ao focar na análise de bem-estar e produtividade pessoal.
